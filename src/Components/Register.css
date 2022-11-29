@@ -1,0 +1,19 @@
+.headdiv{
+  width: 100%;
+  height: 900px;
+  margin-top: -900px;
+}
+.heading{
+    margin-top: 5px;
+    margin-left: 40%;
+}
+
+.formdiv{
+    margin-top: -800px;
+}
+button{
+    margin-left: 24%;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: black;
+}

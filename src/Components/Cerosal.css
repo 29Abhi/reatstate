@@ -1,0 +1,11 @@
+.main_cerousal{
+    width: 100%;
+    height: 500px;
+    margin-top: -900px;
+}
+
+.d-block{
+    width: 100%;
+    height: 600px;
+    border-radius: 7px;
+}
